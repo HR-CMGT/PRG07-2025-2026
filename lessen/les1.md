@@ -40,7 +40,7 @@ gerichte codevoorbeelden.
 1. Kopieer de [startcode van de puzzels](../assets/puzzels.js) naar een eigen JavaScript-document.
 2. Elke puzzel begint met een titel en een korte uitleg in **commentaar**.
 3. Onder de uitleg staat `// Schrijf hier de code...`. **Vervang dit door jouw oplossing.**
-4. Onder de code staan **console.logs** die de code testen. **Haal deze uit commentaar** om je oplossing te controleren.
+4. Daaronder staan tot slot **console.logs** die de code testen. **Haal deze uit commentaar** om je oplossing te controleren.
 5. Test je code door het bestand met node te starten (`node puzzels.js`).
 
 <br><br>
@@ -92,7 +92,7 @@ aangeroepen bestand), eraf gehaald worden en je alleen de argumenten overhoudt d
 6. Bedenk een slimme manier om beide scenario's (eigen data & API-data) dezelfde filter logica te laten gebruiken en
    dubbele code te voorkomen.
 7. Toon als category 'list' gebruikt wordt een lijst met alle beschikbare categorieën. Je output zijn nu dus geen
-   emoji's meer, maar alle categorieën die bestaan.
+   emoji's meer, maar alle categorieën van de emoji's die je eigenlijk zou tonen.
 
 <br><br>
 
@@ -132,7 +132,7 @@ Download de startcode, maar run het project nog niet: https://github.com/HR-CMGT
 1. React maakt gebruik van JSX. Onderwater creëren JSX-tags _elementen_ (m.b.v. de functie `createElement`) met een type
    (de html-tag), props (object met attributen), en eventuele children (child elementen of tekst content). React-mini
    heeft helaas nog geen JSX ondersteuning dus we moeten `createElement` zelf aanroepen om html en functie elementen te
-   maken. Voeg aan de App een `main` toe met daarin een `section` met een `h2` en een `p`, om hiermee te oefenen.
+   maken. Voeg aan de App een `main` toe met daarin een `section` met een `h2` en een `p` en voer hier tekst in.
 2. Voeg ook een `button` toe met een alert. Tip: `onclick` is een property van button.
 3. Maak nu een component aan genaamd `MyProfile`. Return hierin een `section` maakt met daarin een `h2` en een `p`. Zet
    in de **h1** een tekst als `Mijn profiel` en in de **p** een tekst als `Mijn naam is [NAAM]`. Voeg dit component toe
