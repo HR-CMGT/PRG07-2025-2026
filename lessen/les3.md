@@ -2,7 +2,7 @@
 
 - [Les 3](#les-3)
   - [Navigatie in React Native](#navigatie-in-react-native)
-    - [Stack Navigator en Native Stack Navigator](#stack-navigator-en-native-stack-navigator)
+    - [Stack Navigator](#stack-navigator)
     - [Bottom Tabs Navigator](#bottom-tabs-navigator)
   - [Lijsten in React Native](#lijsten-in-react-native)
     - [List Views](#list-views)
@@ -20,16 +20,15 @@ gebruik je schermen. Elk scherm heeft een naam, en je kunt daartussen navigeren.
 Bij navigeren kun je ook **data meegeven**. Bijvoorbeeld: als je een lijst met producten hebt, kun je bij een klik op
 een product de details doorsturen naar het volgende scherm.
 
-### Stack Navigator en Native Stack Navigator
+### Stack Navigator
 
-Een `Stack Navigator` (`Native Stack Navigator`) werkt als een stapel schermen, waarbij alleen het bovenste scherm
-zichtbaar is voor de gebruiker. Wanneer je naar een nieuw scherm gaat, wordt dit **bovenop de stapel** geplaatst. Het
-vorige scherm blijft eronder staan en verdwijnt niet uit het geheugen. Wanneer je op de terug-knop drukt, dan wordt het
-bovenste scherm **weggehaald** en zie je dus weer het vorige scherm.
+Een `Stack Navigator` werkt als een stapel schermen, waarbij alleen het bovenste scherm zichtbaar is voor de gebruiker.
+Wanneer je naar een nieuw scherm gaat, wordt dit **bovenop de stapel** geplaatst. Het vorige scherm blijft eronder
+staan en verdwijnt niet uit het geheugen. Wanneer je op de terug-knop drukt, dan wordt het bovenste scherm
+**weggehaald** en zie je dus weer het vorige scherm.
 
 Dit is vergelijkbaar met hoe een browsergeschiedenis werkt: als je een nieuwe pagina opent, kun je met de terug-knop
 weer naar de vorige pagina. <br> https://reactnavigation.org/docs/stack-navigator<br>
-https://reactnavigation.org/docs/native-stack-navigator
 
 ### Bottom Tabs Navigator
 
