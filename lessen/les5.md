@@ -63,7 +63,6 @@ daarop in. Toon ook de huidige locatie van de gebruiker (Tip: dit kan direct via
 
 Nuttige links: [MapView](https://github.com/react-native-maps/react-native-maps/blob/master/docs/mapview.md),
 [Marker](https://github.com/react-native-maps/react-native-maps),
-[Expo location](https://docs.expo.dev/versions/latest/sdk/location/)
 
 <br><br>
 
