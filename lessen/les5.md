@@ -8,7 +8,6 @@
     - [Locatie-app testen](#locatie-app-testen)
   - [Opdracht 5.1](#opdracht-51)
   - [Opdracht 5.2](#opdracht-52)
-  - [Eindopdracht](#eindopdracht)
   - [Showcase](#showcase)
 
 <br><br>
@@ -84,10 +83,6 @@ Nuttige links:
 [watchPositionAsync](https://docs.expo.dev/versions/latest/sdk/location/#locationwatchpositionasyncoptions-callback)
 
 <br><br>
-
-## Eindopdracht
-
-Start met de eindopdracht.
 
 ## Showcase
 
