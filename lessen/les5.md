@@ -9,6 +9,7 @@
   - [Opdracht 5.1](#opdracht-51)
   - [Opdracht 5.2](#opdracht-52)
   - [Eindopdracht](#eindopdracht)
+  - [Showcase](#showcase)
 
 <br><br>
 
@@ -87,3 +88,7 @@ Nuttige links:
 ## Eindopdracht
 
 Start met de eindopdracht.
+
+## Showcase
+
+Aan het einde van deze les worden de extra's gedemonstreerd.
