@@ -5,7 +5,7 @@
 - [Installatie](#installatie)
   - [Les 1](#les-1)
   - [Les 2](#les-2)
-  - [Les 3](#les-3)
+  - [Les 6](#les-6)
 
 Check of node en npm de juiste versie hebben:
 
@@ -36,8 +36,6 @@ in de terminal van je project het volgende uit te voeren:
 
 **Let op!** Je telefoon moet verbonden zijn met hetzelfde netwerk als je computer.
 
-## Les 3
-
 Omdat de documentatie van de installatie van een navigator verdeeld is over meerdere pagina's, en ook diverse extra
 modules in de documentatie gebruikt worden, vind je hier een overzicht van de essentiële stappen:
 
@@ -58,3 +56,11 @@ npx expo install react-native-screensreact-native-safe-area-context
 Daarna kan je de navigator implementeren. Voor de stack navigator staat hier een uitgewerkt voorbeeld
 ['Stack Navigation'](https://reactnavigation.org/docs/stack-navigator/). Je kunt bij de code voorbeelden steeds kiezen
 tussen **static**, vergelijkbaar met routing bij PRG6, of **dynamic**, waarbij de configuratie in de `JSX` plaatsvindt.
+
+## Les 6
+
+Installeer een **Bottom Tab Navigator**:
+
+```shell
+npm install @react-navigation/bottom-tabs
+```
