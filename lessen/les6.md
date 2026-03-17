@@ -22,8 +22,8 @@ We hebben tot nu toe gebruik gemaakt van.
 
 ### Context API
 
-De Context API is de oplossing van React voor het probleem van prop drilling. Het stelt je in staat om state
-beschikbaar te zonder dat je de props door hoeft te geven.
+De Context API is de oplossing van React voor het probleem van prop drilling. Het stelt je in staat om een state en/of
+functies beschikbaar te stellen zonder dat je de props door hoeft te geven.
 
 Dit werkt met drie onderdelen:
 
@@ -68,6 +68,7 @@ beheerd met de Context API, zodat zowel het productenscherm als het winkelmandsc
 Nuttige links: [Context API](https://react.dev/reference/react/createContext),
 [Bottom Tab Navigator](https://reactnavigation.org/docs/bottom-tab-navigator),
 [Tab Bar met badge](https://reactnavigation.org/docs/bottom-tab-navigator#showing-a-badge-on-the-tab-bar-icon)
+[Customizing Tab Bar](https://reactnavigation.org/docs/customizing-tabbar/)
 
 ## Eindopdracht
 
