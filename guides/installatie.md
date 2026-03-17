@@ -5,6 +5,7 @@
 - [Installatie](#installatie)
   - [Les 1](#les-1)
   - [Les 2](#les-2)
+  - [Les 3](#les-3)
   - [Les 6](#les-6)
 
 Check of node en npm de juiste versie hebben:
@@ -39,7 +40,9 @@ in de terminal van je project het volgende uit te voeren:
 Omdat de documentatie van de installatie van een navigator verdeeld is over meerdere pagina's, en ook diverse extra
 modules in de documentatie gebruikt worden, vind je hier een overzicht van de essentiële stappen:
 
-**basis navigation** (altijd nodig)
+## Les 3
+
+**basis navigation** (altijd nodig, voor elk type navigator)
 
 ```
 npm install @react-navigation/native
@@ -48,8 +51,7 @@ npx expo install react-native-screensreact-native-safe-area-context
 
 **type navigator** (kies één van onderstaande navigators)
 
-- `npm install @react-navigation/stack`, of
-- `npm install @react-navigation/bottom-tabs`
+- `npm install @react-navigation/stack`
 
 **implementatie**
 
@@ -59,7 +61,8 @@ tussen **static**, vergelijkbaar met routing bij PRG6, of **dynamic**, waarbij d
 
 ## Les 6
 
-Installeer een **Bottom Tab Navigator**:
+Volg de stappen voor een stack navigator, en kies in plaats van `@react-navigation/stack` voor een
+`@react-navigation/bottom-tabs`.
 
 ```shell
 npm install @react-navigation/bottom-tabs
