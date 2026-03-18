@@ -99,5 +99,5 @@
 // Puzzel 10: Try/catch Await/Async Fetch
 // Schrijf de functie getSmileys die een lijst met alle smiley-namen ophaalt van: https://raw.githubusercontent.com/cheatsnake/emojihub/refs/heads/master/emojistore/data/emojibase.json
 
-// console.log(getSmileys({ sword: 1, potion: 5, shield: 2 }));
+// console.log(getSmileys());
 // ["grinning face"], ["grinning face with smiling eyes"], ["face with tears of joy"], ...
