@@ -49,7 +49,7 @@ npm install @react-navigation/native
 npx expo install react-native-screens react-native-safe-area-context
 ```
 
-**type navigator** (kies één van onderstaande navigators)
+**type navigator**
 
 - `npm install @react-navigation/stack`
 
