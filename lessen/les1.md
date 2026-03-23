@@ -85,7 +85,7 @@ Download de startcode, maar run het project nog niet: https://github.com/HR-CMGT
    tekst in.
 2. Voeg ook een `button` toe met een alert. Tip: `onclick` is een property van button.
 3. Maak nu een component aan genaamd `MyProfile`. Return hierin een `section` maakt met daarin een `h2` en een `p`. Zet
-   in de **h1** een tekst als `Mijn profiel` en in de **p** een tekst als `Mijn naam is [NAAM]`. Voeg dit component toe
+   in de **h1** een tekst als `Mijn profiel` en in de **p** een tekst als `Mijn naam is [NAAM]`, waarbij je `[NAAM]` meegeeft vanuit de `App` als prop. Voeg dit component toe
    aan de `App` in de `main`.
 
 <br>
