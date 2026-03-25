@@ -61,8 +61,7 @@ Daarna kan je de navigator implementeren, zoals hier beschreven
 Je kunt bij de code voorbeelden steeds kiezen tussen **static**, vergelijkbaar met routing bij PRG6, of **dynamic**,
 waarbij de configuratie in de `JSX` plaatsvindt.
 
-**Let op!** In dit voorbeeld ontbreekt de `NavigationContainer`. Een volledig vooreeld kan je in
-[les 3](../lessen/les3.md) vinden.
+⚠️ **Let op!** In dit voorbeeld staat de `NavigationContainer` weer een ander component, maar wij zullen dit combineren. Een volledig vooreeld kan je in [les 3](../lessen/les3.md) vinden.
 
 ## Les 6
 
