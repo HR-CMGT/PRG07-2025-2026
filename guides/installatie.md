@@ -56,9 +56,9 @@ npx expo install react-native-screens react-native-safe-area-context
 **implementatie**
 
 Daarna kan je de navigator implementeren. Voor de stack navigator staat hier een uitgewerkt voorbeeld
-['Stack Navigation'](https://reactnavigation.org/docs/hello-react-navigation). Je kunt bij de code voorbeelden steeds kiezen
+['Navigation'](https://reactnavigation.org/docs/hello-react-navigation). Je kunt bij de code voorbeelden steeds kiezen
 tussen **static**, vergelijkbaar met routing bij PRG6, of **dynamic**, waarbij de configuratie in de `JSX` plaatsvindt.
-Let op: in het voorbeeld staat alles in één component, maar dat doen wij natuurlijk niet.
+Let op: in dit voorbeeld wordt de *native stack navigator* gebruikt terwijl wij voorkeur hebben voor de *stack navigator*, in het voorbeeld staat ook alles in één component, maar dat doen wij natuurlijk niet.
 
 ## Les 6
 
