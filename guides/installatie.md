@@ -30,7 +30,7 @@ project):
 
 Update bij problemen eerst je npm: `npm install -g npm@latest`
 
-Open het zojuist aangemaakte project in PhpStorm. Daarna kun je de app bekijken met de Expo Go app op je telefoon, door
+Open het zojuist aangemaakte project in PhpStorm. Installeer vervolgens de app **Expo Go** die je kunt installeren vanuit de standaard app store van jouw smartphone. Daarna kun je de app bekijken met de Expo Go app op je telefoon, door
 in de terminal van je project het volgende uit te voeren:
 
 `npm run start`
