@@ -30,6 +30,26 @@ staan en verdwijnt niet uit het geheugen. Wanneer je op de terug-knop drukt, dan
 Dit is vergelijkbaar met hoe een browsergeschiedenis werkt: als je een nieuwe pagina opent, kun je met de terug-knop
 weer naar de vorige pagina. <br> https://reactnavigation.org/docs/stack-navigator<br>
 
+```javascript
+import { createStackNavigator } from "@react-navigation/stack";
+import { NavigationContainer } from "@react-navigation/native";
+import Home from "./Home";
+import Next from "./Next";
+
+const Stack = createStackNavigator();
+
+export default function App() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator id={"1"}>
+        <Stack.Screen name={"Home"} component={Home} options={{ title: "Home Screen" }} />
+        <Stack.Screen name={"Next"} component={Next} options={{ title: "Next Screen" }} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}
+```
+
 ### Bottom Tabs Navigator
 
 Een `Bottom Tabs Navigator` maakt een navigatiebalk onderin het scherm met tabbladen. Dit zie je vaak in apps zoals
