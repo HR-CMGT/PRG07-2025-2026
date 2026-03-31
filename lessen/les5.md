@@ -80,7 +80,7 @@ worden op dit zoomlevel._
 <br>
 
 Nuttige links:
-[watchPositionAsync](https://docs.expo.dev/versions/latest/sdk/location/#locationwatchpositionasyncoptions-callback-errorhandler))
+[watchPositionAsync](https://docs.expo.dev/versions/latest/sdk/location/#locationwatchpositionasyncoptions-callback-errorhandler)
 
 <br><br>
 
