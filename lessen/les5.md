@@ -32,13 +32,13 @@ Je hebt de componenten [MapView](https://docs.expo.dev/versions/latest/sdk/map-v
 
 Mobiele apparaten kunnen hun locatie op verschillende manieren bepalen.
 
-### Coarse Location (`LocationAccuracy.Low`)
+### Coarse Location (`Accuracy.Low`)
 
 Maakt gebruik van wifi-netwerken, mobiele zendmasten en IP-adressen. Dit is minder nauwkeurig (vaak binnen enkele
 honderden meters), maar wel sneller en verbruikt minder energie en heeft dus een lager batterijverbruik. Gebruik dit
 als nauwkeurigheid niet zo belangrijk is, bijvoorbeeld voor een weer-app.
 
-### Fine Location (`LocationAccuracy.High`)
+### Fine Location (`Accuracy.High`)
 
 Hierbij wordt de GPS gebruikt, vaak in combinatie met andere sensoren op de telefoon (zoals gyroscoop en kompas). Dit
 zorgt voor een zeer nauwkeurige plaatsbepaling (tot op enkele meters), maar heeft daardoor ook een hoger
