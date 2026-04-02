@@ -50,7 +50,7 @@ beheerd met de Context API, zodat zowel het productenscherm als het winkelmandsc
 
 1.  **Maak een Context voor het winkelmandje.**
     - Deze context moet de items in het mandje bijhouden.
-    - Zorg voor functies om een product toe te voegen en te verwijderen.
+    - Zorg voor functies om een product and het winkelmandje toe te voegen en te verwijderen.
 2.  **Zet een `BottomTabNavigator` op met twee tabs:**
     - **Tab 1: "Producten"**
       - Toont een lijst (`FlatList`) met producten (minimaal 5, je mag ze zelf bedenken).

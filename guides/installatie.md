@@ -61,13 +61,13 @@ Daarna kan je de navigator implementeren, zoals hier beschreven
 Je kunt bij de code voorbeelden steeds kiezen tussen **static**, vergelijkbaar met routing bij PRG6, of **dynamic**,
 waarbij de configuratie in de `JSX` plaatsvindt.
 
-⚠️ **Let op!** In dit voorbeeld ontbreekt de `NavigationContainer`. Een volledig vooreeld kan je in
+⚠️ **Let op!** In dit voorbeeld ontbreekt de `NavigationContainer`. Een volledig voorbeeld kan je in
 [les 3](../lessen/les3.md) vinden.
 
 ## Les 6
 
-Volg de stappen voor een stack navigator, en kies in plaats van `@react-navigation/stack` voor een
-`@react-navigation/bottom-tabs`.
+Volg de stappen van [les 3](#les-3), alleen installeer in plaats van de `@react-navigation/stack` voor 
+`@react-navigation/bottom-tabs`:
 
 ```shell
 npm install @react-navigation/bottom-tabs
