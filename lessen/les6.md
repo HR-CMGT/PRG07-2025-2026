@@ -55,7 +55,7 @@ beheerd met de Context API, zodat zowel het productenscherm als het winkelmandsc
     - **Tab 1: "Producten"**
       - Toont een lijst (`FlatList`) met producten (minimaal 5, je mag ze zelf bedenken).
       - Elk product heeft een "Voeg toe aan mandje" knop.
-      - Bij een klik op de knop wordt het product toegevoegd aan de winkelmand-context.
+      - Bij een druk op de knop wordt het product toegevoegd aan de winkelmand-context.
     - **Tab 2: "Winkelmand"**
       - Toont de producten die aan het mandje zijn toegevoegd (je hoeft producten niet te groeperen).
       - Toont het totaal aantal items in het mandje.
